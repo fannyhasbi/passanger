@@ -1,2 +1,2 @@
 # passanger
-Password arranger based on the given words to create possible password list. Words is specified when the process of reconnaissance and OSINT of a target. The result of this program can be used to bruteforce target's username/password.
+Password arranger based on the given words to create possible password list. Words is specified in the process of reconnaissance and OSINT. The result of this program can be used to bruteforce target's username/password.
